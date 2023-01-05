@@ -16555,6 +16555,11 @@
   "RootNamespace": "gestorTarefas",
   "Documents": [
     {
+      "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Tarefa\\Detalhes.cshtml",
+      "TargetPath": "Views\\Tarefa\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16562,6 +16567,16 @@
     {
       "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Tarefa\\Deletar.cshtml",
+      "TargetPath": "Views\\Tarefa\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Tarefa\\Buscar.cshtml",
+      "TargetPath": "Views\\Tarefa\\Buscar.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16580,6 +16595,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Tarefa\\Editar.cshtml",
+      "TargetPath": "Views\\Tarefa\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -16587,6 +16607,11 @@
     {
       "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\Bootcamp\\gestorTarefas\\Views\\Tarefa\\Criar.cshtml",
+      "TargetPath": "Views\\Tarefa\\Criar.cshtml",
       "FileKind": "mvc"
     },
     {
